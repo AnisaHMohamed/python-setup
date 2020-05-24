@@ -1,18 +1,14 @@
 import requests
-import sys
-
-
-
-import requests
+# import sys
 
 # print(sys.version)
-print(sys.executable)
+# print(sys.executable)
 
 
-def greet(who_to_greet):
-    test = 'test'
-    greeting = 'Hello, {}'.format(who_to_greet)
-    return greeting
+# def greet(who_to_greet):
+#     test = 'test'
+#     greeting = 'Hello, {}'.format(who_to_greet)
+#     return greeting
 
 
 # print(greet('World'))
