@@ -1,7 +1,6 @@
 import requests
 import sys
 
-from os import rename
 
 
 import requests
