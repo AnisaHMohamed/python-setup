@@ -1,6 +1,6 @@
 import requests
 import sys
-import math
+
 from os import rename
 
 
